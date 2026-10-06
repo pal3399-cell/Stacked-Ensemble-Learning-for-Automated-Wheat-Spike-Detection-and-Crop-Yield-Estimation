@@ -1,0 +1,27 @@
+{
+ "frcnn": {
+  "params_M": 41.3,
+  "GFLOPs": 181.4,
+  "ms": 1194
+ },
+ "ssd": {
+  "params_M": 23.75,
+  "GFLOPs": 273.6,
+  "ms": 1626
+ },
+ "ssdlite": {
+  "params_M": 2.21,
+  "GFLOPs": 3.2,
+  "ms": 120
+ },
+ "yolo": {
+  "params_M": 11.17,
+  "GFLOPs": 28.6,
+  "ms": 285
+ },
+ "ensemble": {
+  "params_M": 78.43,
+  "GFLOPs": 486.8,
+  "ms": 3225
+ }
+}

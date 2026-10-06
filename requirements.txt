@@ -1,0 +1,10 @@
+torch==2.4.1
+torchvision==0.19.1
+ultralytics==8.4.171
+ensemble-boxes
+grad-cam
+scikit-learn
+pandas
+numpy
+matplotlib
+pillow
